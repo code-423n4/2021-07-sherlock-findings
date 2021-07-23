@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "bw",
+  "address": "0x3d977eF4855A526500E901bFA43c209E0C51BA84",
+  "risk": "G",
+  "title": "Make variables immutable or constant",
+  "issueId": 1,
+  "issueUrl": "https://github.com/code-423n4/2021-07-sherlock-findings/issues/1"
+}
