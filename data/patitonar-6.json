@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "patitonar",
+  "address": "0xDaA39d73eF9b4495bfe206FF13eE29E759F95d63",
+  "risk": "G",
+  "title": "Declare AaveV2 contract variables as immutable",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2021-07-sherlock-findings/issues/6"
+}
