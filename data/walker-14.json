@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "walker",
+  "address": "0x3Fd7691eA5E9339fBc7bba59cF9226a2DEfCEDD4",
+  "risk": "3",
+  "title": "DoS for protocol withdrawals",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2021-07-sherlock-findings/issues/14"
+}
