@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "0",
+  "title": "don't use add(add.sub(sub)",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2021-07-sherlock-findings/issues/23"
+}
