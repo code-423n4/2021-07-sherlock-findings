@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "G",
+  "title": "uint40 for block.number storage",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2021-07-sherlock-findings/issues/10"
+}
