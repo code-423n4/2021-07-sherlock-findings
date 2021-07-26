@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "hickuphh3",
+  "address": "0xD5388291EAbe96b56069440C97046791E2F72573",
+  "risk": "G",
+  "title": "Gov.sol: Consider abstracting protocolUpdate() and protocolDepositAdd() to avoid duplicate checks",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2021-07-sherlock-findings/issues/31"
+}
