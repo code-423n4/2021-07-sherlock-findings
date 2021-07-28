@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "1",
+  "title": "`transferFrom` gas improval",
+  "issueId": 100,
+  "issueUrl": "https://github.com/code-423n4/2021-07-sherlock-findings/issues/100"
+}
