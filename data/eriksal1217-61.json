@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "eriksal1217",
+  "address": "0x64b29cf8A5b2eC1133f2eA5B8BE644F41C9D6d53",
+  "risk": "2",
+  "title": "[PoolBase.sol] Calculations are being divided before being multiplied ",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2021-07-sherlock-findings/issues/61"
+}
