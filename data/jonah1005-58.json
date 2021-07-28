@@ -1,0 +1,9 @@
+{
+  "contest": "Sherlock contest",
+  "handle": "jonah1005",
+  "address": "0xd7f69D59B6E8E6f3031B12f692d468bC88Ebdd97",
+  "risk": "G",
+  "title": "Unnecessary `_govPool == 0` check in `function tokenInit`",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2021-07-sherlock-findings/issues/58"
+}
